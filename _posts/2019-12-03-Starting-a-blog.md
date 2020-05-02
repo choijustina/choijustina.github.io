@@ -28,8 +28,7 @@ Don't repeat my mistake: I didn't install the **full** Ruby development environm
 But finally after some Googling and an hour of effort, I finally got it to work! And GitHub SSH keys set up too!
 
 ## Next steps: 
-+ Learning about Front Matter and Liquid templating [here]({% post_url 2019-12-04-Liquid-Templating-language %})
-+ Pro tip: [linking to other posts](https://jekyllrb.com/docs/liquid/tags/#linking-to-posts)
++ 
 
 #### Other useful resources:
 
