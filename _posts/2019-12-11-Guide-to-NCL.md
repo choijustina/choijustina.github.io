@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Guide to National Cyber League
+title: Guide to National Cyber League CTF
 date: 2019-12-11
-tags: national cyber league
+tags: national cyber league, CTFs
 ---
 
 ## What is NCL?
@@ -17,7 +17,7 @@ Even though the NCL competition itself is targeted towards students and many of 
 
 ## Challenge Categories
 
-1. **Open Source Intelligence**: questions you have to Google
+1. [**Open Source Intelligence**]({% post_url 2019-12-15-NCL-Open-Source-Intelligence %}): gather information using publically available data and tools
 1. **Cryptography**: decoding encoded passwords and some steganography
 1. **Scanning**: Nmap, directory traversal, port scanning, etc
 1. **Password Cracking**

@@ -7,7 +7,7 @@ tags: tutorial, blogging
 
 After procrastinating on starting a blog for years, I finally decided to use Github Pages. That way, I could use version control I'm already familiar with and Github recommends Jekyll because it is faster and cleaner as a static site hosting service.
 
-I did have to spend some more time familiarizing myself with the specifics of Markdown (my prior knowledge is elementary and I still keep mixing up which brackets to use for links) but this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) includes all of the basics.
+I did have to spend some more time familiarizing myself with the specifics of Markdown (my prior knowledge is elementary and I still keep mixing up which brackets to use for links) but this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) includes all of the basics. When first starting out, using a [live preview Markdown editor](https://stackedit.io/) was also really helpful.
 
 I had initially forked the repo as based on this [tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) (which only took 30 minutes btw), but then I realized I wanted to start with a clean slate. Honestly, I also didn't like how when I forked the repo, there were other contributers/branches/stats. Petty and perfectionist, I know. I do recommend the tutorial though, as it includes other useful tips about directory structure, liquid templating, layouts, etc.
 
@@ -25,6 +25,8 @@ Don't repeat my mistake: I didn't install the **full** Ruby development environm
 
 But finally after some Googling and an hour of effort, I finally got it to work! And GitHub SSH keys set up too!
 
+## Side note
+How to [link to other posts](https://jekyllrb.com/docs/liquid/tags/#linking-to-posts) in your blog
 
 ## Resources
 * <https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll>
