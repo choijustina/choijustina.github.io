@@ -19,13 +19,13 @@ Even though the NCL competition itself is targeted towards students and many of 
 
 1. [**Open Source Intelligence**]({% post_url 2019-12-15-NCL-Open-Source-Intelligence %}): gather information using publically available data and tools
 1. **Cryptography**: decoding encoded passwords and some steganography
+1. **Password Cracking**: hashcat or john the ripper are essential here
+1. **Log Analysis**: parsing thousands of lines of logs
+1. **Network Traffic Analysis**: analyze packet captures to determine what happened
+1. **Wireless Access Exploitation**: break into these wireless networks
 1. **Scanning**: Nmap, directory traversal, port scanning, etc
-1. **Password Cracking**
-1. **Enumeration and Exploitation**
-1. **Log Analysis**
-1. **Wireless Access Exploitation**
-1. **Network Traffic Analysis**
-1. **Web Application Exploitation**
+1. **Web Application Exploitation**: find and exploit vulnerabilities
+1. **Enumeration and Exploitation**: combines skills from all other challenges; coding also required
 
 ## Resources
 + [CryptoKait's Coaching Guide](https://cryptokait.com/workshops/ncl-coaching-guide/) (There are also some previous challenges for practice)
